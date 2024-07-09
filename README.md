@@ -1,6 +1,9 @@
 Download the zip folder or clone the Repo
+
 Then open the terminal and enter these commands:
+
 cd macos-scientific-calculator
+
 npm start
 
 
